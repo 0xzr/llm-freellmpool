@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "llm-freellmpool"
-version = "0.1.0"
-description = "Use free LLMs in Simon Willison's llm CLI via freellmpool — pool 16 free providers, works with zero API keys."
+version = "0.1.1"
+description = "Use free LLMs in Simon Willison's llm CLI via freellmpool — pool 18 free providers, works with zero API keys."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"
